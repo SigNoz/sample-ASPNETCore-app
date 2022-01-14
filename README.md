@@ -6,3 +6,6 @@ dotnet build
 
 ## To run
 dotnet run
+
+
+## Change IP of SigNoz in appsettings.json
